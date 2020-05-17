@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+	background-color:skyblue;
+}
+
+header{
+	border:pink 3px solid; height:20%; postion:relative;
+}
+
+#content{
+	margin:10px 9px 50px; height:65%; background-color:yellow;
+}
+
+#areaMain{
+	position:relative; float:right; padding:10px 0;
+	border:purple 3px solid; width:75%;
+}
+
+#areaSub{
+	border:green 3px solid; width:20%; float:left;
+}
+
+footer{
+	border:yellow 3px dotted; clear:both; height:30%
+}
